@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @st0ppers
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning c#, HTML, CSS, JS
+- 🌱 I’m currently learning C#, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on any new project that i can gain knowledge of.
 - 📫 How to reach me alexsander.damov@yahoo.com
 
